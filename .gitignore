@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Conditional statement/Symmetrical number/out/
+/Topics/Conditional statement/Symmetrical number/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Enums in Java/Hidden enumeration/out/
+/Topics/Enums in Java/Hidden enumeration/out/production/classes/
+/Topics/Getters and setters/Getting the fullname/out/
+/Topics/Getters and setters/Getting the fullname/out/production/classes/
+/Topics/Instance methods/Simulating a clock/out/
+/Topics/Instance methods/Simulating a clock/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/The while and do-while loops/Squares of natural numbers/out/
+/Topics/The while and do-while loops/Squares of natural numbers/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
